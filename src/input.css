@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.background-image {
+    background-image: url('../Image\ \(12\).png');
+    background-size: cover;
+    background-position: center;
+    width: 510px;
+    border-radius: 20px;
+    
+    
+}
+
+
