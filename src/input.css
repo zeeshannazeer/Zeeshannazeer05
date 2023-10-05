@@ -7,10 +7,10 @@
     background-image: url('../SmileBg.png');
     background-size: cover;
     background-position: center;
-    width: 510px;
+    width: 300px;
     border-radius: 20px;
-    
-    
+    height: 300px;
+    margin-bottom: 20px;
 }
 
 
